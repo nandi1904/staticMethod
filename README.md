@@ -1,0 +1,2 @@
+# staticMethod
+python
